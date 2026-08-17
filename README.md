@@ -1,133 +1,199 @@
-# Hey, I'm Pratham 👋
+<div align="center">
 
-### `building stuff • breaking stuff • figuring it out`
+# `> whoami`
 
-I'm a **Computer Science student** who likes turning random ideas into working software.
+### **Pratham Jain**
 
-Currently exploring **full-stack development, AI, and the engineering behind products that people actually use.**
+`CS Student` · `Builder` · `Full-Stack Developer` · `AI Explorer`
 
-I don't have everything figured out yet.
+<br>
 
-That's kind of the point.
+**I turn ideas into things that actually run.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-ImFocused-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ImFocused)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pratham%20Jain-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prthm-jain)
+
+</div>
 
 ---
 
-## 🧠 What I'm Playing With
+```bash
+$ ./pratham
 
-```text
-Frontend       → React / JavaScript / Vite
-Backend        → Node.js / Express
-Databases      → PostgreSQL / MongoDB / MySQL
-Languages      → Java / Python / C / C++ / JavaScript
-AI             → LLM-powered applications
-Deployment     → Vercel / Render
+> loading developer...
+
+[✓] Computer Science
+[✓] Full-Stack Development
+[✓] React + Node
+[✓] Databases
+[✓] AI / LLMs
+[✓] Hackathons
+[ ] done learning
+
+> status: building...
 ```
 
+## `~/currently`
+
+I'm exploring the space between **software engineering, AI and product building**.
+
+I like starting with a simple question:
+
+> **"Can I build this?"**
+
+Then finding out.
+
+Right now, most of my attention is going toward **full-stack applications and AI-powered products**.
+
 ---
 
-## 🚀 Building Right Now
+## `~/building`
 
-### `AI × Campus Placements`
+### 🤖 AI × Campus Placements
 
-An attempt to make the campus placement process a little smarter.
+A full-stack platform I'm building around the campus placement journey.
 
-Currently experimenting with:
+The interesting part isn't just the CRUD.
+
+I'm experimenting with:
 
 `Resume Analysis` · `Job Matching` · `Skill Gaps` · `Recommendations`
 
-while building the actual full-stack infrastructure underneath it.
+while building the APIs, authentication, database layer and application around it.
+
+**Stack**
+
+`React` `Node.js` `Express` `MongoDB` `REST APIs` `JWT` `LLM APIs`
 
 ---
 
-## 🧪 Stuff I've Built
+## `~/ships`
 
-**🔗 ShortURL**
+### 🔗 ShortURL
 
-Started with *"how hard can a URL shortener be?"*
+> *"How hard can a URL shortener be?"*
 
-Ended up building a deployed full-stack application with REST APIs, PostgreSQL, validation, redirects and production deployment.
+Apparently, hard enough to make it interesting.
 
-→ `React` `Node.js` `Express` `PostgreSQL`
+A production-deployed full-stack URL shortener with:
 
-**🎨 Personal Portfolio**
-
-Built my own little corner of the internet instead of using a template.
-
-→ `React` `Vite` `Canvas` `CSS`
-
-**🌦️ Weather / Games / Experiments**
-
-Some of my earlier repositories are smaller projects — weather apps, games, API experiments and clones.
-
-They're part of the journey.
-
-The interesting part is seeing what came after them.
+`React` `Express` `PostgreSQL` `REST APIs`
 
 ---
 
-## 📈 The Journey
+### 🎨 Personal Portfolio
+
+My own corner of the internet.
+
+Built from scratch with React, reusable components, responsive layouts and an interactive Canvas experience.
+
+`React` `Vite` `Canvas` `CSS`
+
+---
+
+### 🧪 Experiments
+
+Weather apps.
+
+Games.
+
+Clones.
+
+API experiments.
+
+Random ideas that seemed worth building at 2 AM.
+
+Some became projects.
+
+Some became lessons.
+
+Both count.
+
+---
+
+## `~/stack`
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Java · Python · C · C++ · JavaScript · SQL</td>
+</tr>
+
+<tr>
+<td><b>Frontend</b></td>
+<td>React · Vite · HTML · CSS</td>
+</tr>
+
+<tr>
+<td><b>Backend</b></td>
+<td>Node.js · Express · REST APIs</td>
+</tr>
+
+<tr>
+<td><b>Data</b></td>
+<td>PostgreSQL · MongoDB · MySQL</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>Git · GitHub · VS Code · Vercel · Render</td>
+</tr>
+</table>
+
+---
+
+
+**Still building the next box.**
+
+---
+
+## `~/outside-code`
+
+I like **hackathons, technical communities and building with people**.
+
+Currently involved with **GDG on Campus WIT Solapur** and hackathon teams.
+
+The goal isn't to know everything.
+
+It's to keep getting better at figuring things out.
+
+---
+
+## `~/principles`
 
 ```text
-HTML / CSS / JavaScript
-          ↓
-       React
-          ↓
-   Java / DSA
-          ↓
-   Node + REST APIs
-          ↓
- Databases + Deployment
-          ↓
- Full-Stack Applications
-          ↓
-      AI + LLMs
-          ↓
-           ?
+build > talk
+
+ship > overthink
+
+curiosity > comfort
+
+bugs → lessons
+
+"it works" → "it works properly"
 ```
 
-Still writing the next line.
-
 ---
 
-## 🧩 Outside the Code
+<div align="center">
 
-I like **hackathons, building with people, and taking an idea from "this would be cool" → "wait, it actually works."**
+### `sudo keep-building`
 
-I've been involved with **GDG on Campus WIT Solapur**, technical communities, and hackathon teams.
+<br>
 
----
+**Thanks for stopping by.**
 
-## ⚡ A Few Things About Me
+If something here looks interesting,
+**check out the repositories.**
 
-* I learn best by **building**
-* I prefer **shipping something imperfect** over planning it forever
-* I enjoy the combination of **engineering + UI**
-* Most projects start with a questionable idea and a new folder
-* Currently trying to replace *"it works on my machine"* with something slightly more professional
+<br>
 
----
+[![GitHub](https://img.shields.io/badge/@ImFocused-181717?style=flat-square\&logo=github)](https://github.com/ImFocused)
+ 
+[![LinkedIn](https://img.shields.io/badge/Connect-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prthm-jain/)
 
-## 📊 GitHub
+<br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImFocused&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImFocused&layout=compact&hide_border=true" height="170"/>
-</p>
+`stay curious. keep building. 🚀`
 
----
-
-## 🌐 Find Me
-
-<p align="center">
-  <a href="https://github.com/ImFocused">
-    <img src="https://img.shields.io/badge/GitHub-ImFocused-black?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-<p align="center">
-
-### `stay curious. keep building. 🚀`
-
-</p>
+</div>
